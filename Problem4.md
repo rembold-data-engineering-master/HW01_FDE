@@ -23,7 +23,7 @@ How many rows are duplicated?
 ```
 
 ## Part C
-How many bands have "death" appearing in their name?
+How many bands have the colors black or white appearing somewhere in their name?
  - **Answer:**
  - **Description:**
 ```sql
@@ -31,7 +31,7 @@ How many bands have "death" appearing in their name?
 ```
 
 ## Part D
-Second most popular German "Viking folk" style band?
+What is the second most popular German "Viking folk" style band?
  - **Answer:**
  - **Description:**
 ```sql
@@ -39,7 +39,7 @@ Second most popular German "Viking folk" style band?
 ```
 
 ## Part E
-Number of bands which formed and split in the same year?
+What is the oldest band in the database that has not yet split?
  - **Answer:**
  - **Description:**
 ```sql

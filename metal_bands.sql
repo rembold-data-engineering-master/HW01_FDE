@@ -265,7 +265,6 @@ VALUES
 ('Queensrÿche',367,1981,'USA',1981,'Heavy,Progressive heavy,Progressive rock'),
 ('Powerwolf',364,2003,'Germany',NULL,'Power'),
 ('Belphegor',363,1991,'Austria',1991,'Black,Death'),
-('Alice Cooper',362,1964,'USA',NULL,'Hard rock,Glam rock,New,Wave ,Heavy'),
 ('Before The Dawn',359,1999,'Finland',1999,'Gothic,Melodic death'),
 ('The Faceless',358,2004,'USA',NULL,'Deathcore,Progressive death,Technical death'),
 ('Deftones',357,1988,'USA',1988,'Nu,Alternative'),
