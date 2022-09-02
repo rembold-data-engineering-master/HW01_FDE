@@ -8,40 +8,40 @@ query itself.
 
 ## Part A
 What is the earliest formed band in the data set?
-**Answer:**
-**Description:**
+ - **Answer:**
+ - **Description:**
 ```sql
 
 ```
 
 ## Part B
 How many rows are duplicated?
-**ANSWER:**
-**Description:**
+ - **Answer:**
+ - **Description:**
 ```sql
 
 ```
 
 ## Part C
 How many bands have "death" appearing in their name?
-**ANSWER:**
-**Description:**
+ - **Answer:**
+ - **Description:**
 ```sql
 
 ```
 
 ## Part D
 Second most popular German "Viking folk" style band?
-**ANSWER:**
-**Description:**
+ - **Answer:**
+ - **Description:**
 ```sql
 
 ```
 
 ## Part E
 Number of bands which formed and split in the same year?
-**ANSWER:**
-**Description:**
+ - **Answer:**
+ - **Description:**
 ```sql
 
 ```
