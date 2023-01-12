@@ -1,47 +1,13 @@
-
 # Problem 4
 
-For each of the parts below, I have provided you space to both add your answer to the question,
-to describe how you took the result of your query to answer the question, and to provide the
-query itself.
+Write out a possible CREATE TABLE statement below that would enable you to have the data
+necessary to answer all the provided questions. Be sure to include a comment for each
+column explaining why you chose the data type that you did for that column. You can include the
+comments in your SQL block below be preceding them with a `--`, or you can include a paragraph
+below breaking down your choices.
 
-
-## Part A
-What is the earliest formed band in the data set?
- - **Answer:**
- - **Description:**
 ```sql
+CREATE TABLE ...
 
 ```
 
-## Part B
-How many rows are duplicated?
- - **Answer:**
- - **Description:**
-```sql
-
-```
-
-## Part C
-How many bands have the colors black or white appearing somewhere in their name?
- - **Answer:**
- - **Description:**
-```sql
-
-```
-
-## Part D
-What is the second most popular German "Viking folk" style band?
- - **Answer:**
- - **Description:**
-```sql
-
-```
-
-## Part E
-What is the oldest band in the database that has not yet split?
- - **Answer:**
- - **Description:**
-```sql
-
-```
