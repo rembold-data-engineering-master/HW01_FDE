@@ -2,7 +2,7 @@
 
 Feel free to add your answers below each question!
 
-A) What name do you prefer to go by?
+A) What name do you prefer to go by? How do you pronounce it?
 
 
 
