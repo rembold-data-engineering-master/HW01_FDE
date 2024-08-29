@@ -38,7 +38,7 @@ What is the second most popular German "Viking folk" style band?
 ```
 
 ## Part E
-What is the oldest band in the database that has not yet split?
+How many metal bands from the USA existed for at least a year before splitting, but nevertheless have less than 10 fans?
  - **Answer:**
  - **Description/Explanation:**
 ```sql
